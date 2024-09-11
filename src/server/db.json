@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "93825",
+      "name": "Anna",
+      "profession": "PM",
+      "email": "testAnna@gmail.com"
+    },
+    {
+      "id": "763449",
+      "name": "Mark",
+      "profession": "Developer",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "578129",
+      "name": "Dima",
+      "profession": "QA",
+      "email": "test@gmail.com"
+    }
+  ],
+  "tasks": []
+}
