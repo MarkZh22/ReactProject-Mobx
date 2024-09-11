@@ -10,7 +10,7 @@ import React, {useEffect, useState} from 'react';
 import TextField from '@mui/material/TextField';
 import TasksStore from '../../store/tasksStore';
 import SendIcon from '@mui/icons-material/Send';
-import CustomButton from '../../../../components/UI/Button/CustomButton';
+import CustomButton from '../../../../UI/Button/CustomButton';
 
 
 const TasksForm = observer(() => {

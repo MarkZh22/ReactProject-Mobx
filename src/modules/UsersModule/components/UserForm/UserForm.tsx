@@ -6,7 +6,7 @@ import SendIcon from '@mui/icons-material/Send';
 import TextField from '@mui/material/TextField'
 import Box from '@mui/material/Box';
 import styles from '../UserList/UsersList.module.css';
-import CustomButton from '../../../../components/UI/Button/CustomButton';
+import CustomButton from '../../../../UI/Button/CustomButton';
 
 const UserForm = () => {
     const [inputValueName, setInputValueName] = useState('');

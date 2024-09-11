@@ -14,7 +14,7 @@ import {
     useTheme
 } from '@mui/material';
 import DeleteIcon from '@mui/icons-material/Delete';
-import CustomButton from '../../../../components/UI/Button/CustomButton';
+import CustomButton from '../../../../UI/Button/CustomButton';
 
 const TasksTable = observer(() => {
     const {tasks, getAllTasksAction, isLoading, isLoaded, deleteTaskAction} = TasksStore;

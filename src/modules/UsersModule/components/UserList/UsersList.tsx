@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { IUser, IUsersStore } from '../../store/usersStore.interfaces';
 import styles from './UsersList.module.css';
 import UsersStore from '../../store/usersStore';
-import ItemCard from '../../../../components/UI/Card/ItemCard';
+import ItemCard from '../../../../UI/Card/ItemCard';
 import EditUserModal from '../EditUserModal/EditUserModal';
 
 const UsersList = () => {
